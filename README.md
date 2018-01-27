@@ -7,7 +7,7 @@
 
 这是我创建的项目  
 - ![](Youku-HTML5-Player/icon.png) [(浏览器扩展)优酷HTML5播放器](https://estertion.github.io/Youku-HTML5-Player/)
-- ![](AcFun-HTML5-Player/icon.png) [(浏览器扩展)AcFun HTML5播放器](https://estertion.github.io/AcFun-HTML5-Player/)
+- ![](AcFun-HTML5-Player/src/icon.png) [(浏览器扩展)AcFun HTML5播放器](https://estertion.github.io/AcFun-HTML5-Player/)
 - [(油猴脚本)BiliBili直播替换播放器](https://greasyfork.org/zh-CN/scripts/27759-bilibili-html5-live/)
 - [(浏览器扩展)BiliBili Protobuf格式弹幕阅读器(firefox)](https://github.com/esterTion/BiliBili-pb_danmaku-reader/)
 - [(JavaScript库)轻量音乐播放器](https://github.com/esterTion/LightWeightMusicPlayer)
@@ -32,7 +32,7 @@ I manage [BiliPlus](https://www.biliplus.com/) which has been up for over three 
 
 These are projects I created  
 - ![](Youku-HTML5-Player/icon.png) [(Browser extension)Youku HTML5 Player](https://estertion.github.io/Youku-HTML5-Player/)
-- ![](AcFun-HTML5-Player/icon.png) [(Browser extension)AcFun HTML5 Player](https://estertion.github.io/AcFun-HTML5-Player/)
+- ![](AcFun-HTML5-Player/src/icon.png) [(Browser extension)AcFun HTML5 Player](https://estertion.github.io/AcFun-HTML5-Player/)
 - [(User script)BiliBili Live Replacement Player](https://greasyfork.org/zh-CN/scripts/27759-bilibili-html5-live/)
 - [(Browser extension)BiliBili Protobuf Format Comment Reader(firefox)](https://github.com/esterTion/BiliBili-pb_danmaku-reader/)
 - [(Javascript library)Light Weight Music Player](https://github.com/esterTion/LightWeightMusicPlayer)
